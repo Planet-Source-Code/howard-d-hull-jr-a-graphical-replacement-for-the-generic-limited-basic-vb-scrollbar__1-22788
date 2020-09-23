@@ -1,0 +1,10 @@
+A Graphical replacement for the Generic / Limited / Basic VB ScrollBar 
+
+NOT just another Scrollbar : <br>
+This control will allow you to use graphics for the background, thumb and the buttons. <br>
+Works in either Horizontal or verticle orientation, will automatically determine the orientation when you create the control on the form. <br>
+Uses Longs for the Min / Max / Value properties, no more 65535 limitation. <br>
+Can AutoSize to the dimensions of the background picture. <br>
+The buttons on the ends can be hidden so only the BackGround and the Thumb are shown. <br>
+Great for use with Skins and other unique grpahical applications.<br>
+No flicker. Smooth scrolling. 
